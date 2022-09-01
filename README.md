@@ -1,6 +1,6 @@
 # Hello guys, Vansh this side🙋🏻‍♂️
 ## Currently i am a student and doing my underGrad
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-1419&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Vansh-1419/Vansh-1419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
