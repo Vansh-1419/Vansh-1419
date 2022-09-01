@@ -1,5 +1,20 @@
-# Hello guys, Vansh this side🙋🏻‍♂️
-## Currently i am a student and doing my underGrad
+<h1 align="center">Hello guys, Vansh this side🙋🏻‍♂️</h1>
+<h2 align="center">Learning is My forte🥇</h2>
+
+- 🏃🏻‍♂️I am Currently working on The Frontend Development💻
+
+- 🧍🏼‍♂️I am Currently Learning Next.js and Node.js✅
+
+- 🙌🏻I am looking to collaborate on some intresting projects🧍🏽
+
+- 💀All of my projects are available on <a href="https://github.com/Vansh-1419">github/Vansh-1419</a>🤔
+
+- 💬Ask me about Frontend,NFT's,Crypto,Blockchain⛓
+
+- 📪Reach me on <a href="vanshtandon1423@gmail.com">✉️</a>
+
+- 🫶🏻I am much more intrested in w3 and Backend🀫
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-1419&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
